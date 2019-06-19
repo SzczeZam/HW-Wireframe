@@ -1,0 +1,43 @@
+body {
+    background: #777777;
+    text-align: center;
+}
+
+#main {
+    width:50%;
+    height: 80%;
+    margin: 0 auto;
+}
+
+
+
+.box {
+    width: 100%;
+    background: #ebebeb;
+    color:#777777;
+    padding:10px;
+    margin: 10px;
+}
+
+section {
+    width:50px;
+}
+
+aside{
+
+}
+article {
+     
+     background: #777777;
+     color: #ffffff;
+ }
+
+.in-article {
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    
+}
+
